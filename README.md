@@ -9,11 +9,11 @@ It supports **50+ custom offline voice commands**, including controlling applian
 
 ## 🟣 Assistant Name & Wake Word
 
-Your offline assistant is officially named **Luma**.
+Your offline assistant is officially named **Luma version 2.O**.
 
 To wake the assistant, simply say:
 
-### 🔊 **“Hey Luma”**
+### 🔊 **“Hey Luma or can say Hello Fridey”**
 
 After this wake command, Luma actively listens and executes your next instruction.
 
@@ -75,10 +75,10 @@ Luma can be powered in two different ways:
 ## 🎤 Example Voice Commands
 
 ### 🏠 Home Automation Commands
-- “Hey Luma, turn on the light”  
-- “Hey Luma, turn off the fan”  
-- “Hey Luma, switch on the bulb”  
-- “Hey Luma, turn off the TV”  
+- “Hey Luma/Fridey, turn on the light”  
+- “Hey Luma/Friedy, turn off the fan”  
+- “Hey LumaFridey, switch on the bulb”  
+- “Hey Luma/Fridey, turn off the TV”  
 
 ### 🧠 General Knowledge / Fun Commands
 - “Hey Luma, tell me a poem”  
