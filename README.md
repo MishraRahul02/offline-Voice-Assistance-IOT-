@@ -151,5 +151,5 @@ Optional audio playback (poem, intro, etc.).
 **Rahul Mishra**
 
 GitHub: https://github.com/MishraRahul02  
-LinkedIn: [*(add your link)*  ](https://www.linkedin.com/in/rahul-mishra-319794309/)
+LinkedIn: (https://www.linkedin.com/in/rahul-mishra-319794309/)
 
