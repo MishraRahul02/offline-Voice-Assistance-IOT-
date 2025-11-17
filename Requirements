@@ -1,0 +1,53 @@
+## 🧰 Requirements
+
+Below are all the hardware and software requirements needed to build and run the Offline Voice Assistant **Luma**.
+
+---
+
+## 🔩 Hardware Requirements
+
+| Component | Purpose |
+|----------|---------|
+| **Arduino Uno** | Main microcontroller to process commands |
+| **AI Thinker VC-02 Voice Module** | Offline voice recognition (stores 50+ commands) |
+| **Relay Module (5V)** | To control AC appliances like fan, bulb, TV, etc. |
+| **LED / KED Bulb** | Indicator or test appliance |
+| **Fan / Other Appliances** | (Optional) Real device control demo |
+| **Jumper Wires (Male–Male / Male–Female)** | All circuit connections |
+| **Breadboard** | Prototyping circuit connections |
+| **5V Power Bank / 5V Battery** | For portable and independent power supply |
+| **USB Cable (Type B)** | To connect Arduino to laptop (power + upload code) |
+| **Microphone (Built-in in VC-02)** | For voice command input |
+| **3.3V/5V Logic Compatibility** | VC-02 and Arduino compatible voltage levels |
+
+---
+
+## 💻 Software Requirements
+
+| Software | Purpose |
+|---------|---------|
+| **Arduino IDE** | Upload code to Arduino Uno |
+| **VC-02 Voice Training Software** | To train and upload voice command dataset |
+| **Drivers for Arduino Uno** | USB-to-serial communication |
+| **Any PC (Windows / Linux / Mac)** | For development & testing |
+| **Text Editor (VS Code / Notepad++)** | Editing Arduino code |
+| **Serial Monitor (Arduino IDE)** | Debugging and command verification |
+
+---
+
+## 🔧 Technical Requirements
+
+- VC-02 configured with **50 custom offline commands**
+- Arduino code programmed to:
+  - Detect command IDs from VC-02
+  - Control relay module outputs
+  - Trigger actions for appliances
+- Stable **5V power supply** (Laptop USB or 5V battery)
+- Basic knowledge of:
+  - Arduino programming
+  - Serial communication (TX ↔ RX)
+  - Relay module wiring
+  - Low-voltage electronics safety
+
+
+## 🔌 Optional Requirem
